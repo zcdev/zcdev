@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I’m Zoe 👋
 
-<!--
-**zcdev/zcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer · Designer · Musician ✨  
+Blending **tech + art** into creative, user-friendly, accessible, and performant web experiences.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun/) – Voice-driven game (Next.js + Speech/Voice APIs, Lighthouse 100/100).  
+👽 **Palaxy** – Survey app with custom alien avatars (TypeScript WIP).  
+🌍 **GeoVibe** – Get the vibe of your state.  
+
+See more on my portfolio → [**zoechang.dev**](https://zoechang.dev)
+
+---
+
+### 🛠 Toolbox
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat" />
+</p>
+
+---
+
+### 👩🏻‍💻 About Me
+I create across disciplines:  
+⌨️ **Code** → web apps with React/Next.js  
+🎨 **Design** → visuals & imageries  
+🎹 **Music** → sounds that tell stories
+
+---
+
+💫 Always exploring. Always making.
