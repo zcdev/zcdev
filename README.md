@@ -6,7 +6,8 @@ Blending **tech + art** into creative, user-friendly, accessible, and performant
 ---
 
 ### 🚀 Featured Projects
-🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun/) – Voice-driven game (Next.js + Speech/Voice APIs, Lighthouse 100/100).  
+🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun/) – Voice-driven game (Next.js + Text-to-Speech API, Lighthouse 100/100).  
+🥠 [**Techie Cookie**](https://mytechiecookie.com/) – Dev-inspired app (Next.js + TypeScript + Hugging Face API)     
 👽 **Palaxy** – Survey app with custom alien avatars (TypeScript WIP).  
 🌍 **GeoVibe** – Get the vibe of your state.  
 
