@@ -5,13 +5,15 @@ Blending **tech + art** into creative, user-friendly, accessible, and performant
 
 ---
 
-### 🚀 Featured Projects
-🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun/) – Voice-driven game (Next.js + Text-to-Speech API, Lighthouse 100/100).  
-🥠 [**Techie Cookie**](https://mytechiecookie.com/) – Dev-inspired app (Next.js + TypeScript + Hugging Face API)     
+### 📅 Current Projects
 👽 **Palaxy** – Survey app with custom alien avatars (TypeScript WIP).  
-🌍 **GeoVibe** – Get the vibe of your state.  
+🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun) – Next.js app using Text-to-Speech API (Lighthouse 100/100) — play detective in this quirky mystery game.  
+🥠 [**Techie Cookie**](https://mytechiecookie.com) – Next.js + TypeScript app powered by Hugging Face API — generates playful developer “fortunes.”  
+🇺🇸 [**GeoVibe**](https://geovibe.vercel.app) – React.js app that visualizes U.S. Census data with interactive state insights.  
+🐣 [**Easter Eggs Festival**](https://easter-eggs-festival.vercel.app) – React + TypeScript game featuring audio cues and score tracking.  
+🦉 [**Clicky Owls**](https://clicky-owls.vercel.app) – React.js memory game built with accessibility focus. 
 
-See more on my portfolio → [**zoechang.dev**](https://zoechang.dev)
+See more details about each project on my portfolio → [**zoechang.dev**](https://zoechang.dev)
 
 ---
 
@@ -33,4 +35,4 @@ I create across disciplines:
 
 ---
 
-💫 Always exploring. Always making.
+💫 Always exploring. Always building.
