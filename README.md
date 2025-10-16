@@ -23,7 +23,7 @@ See more details about each project on my portfolio → [**zoechang.dev**](https
 
 ### 📊 My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcdev&layout=compact&theme=github_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcdev&layout=compact&theme=default)
 
 ### 👩🏻‍💻 About Me
 I create across disciplines:  
