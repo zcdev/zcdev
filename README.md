@@ -1,15 +1,29 @@
 # Hi, I’m Zoe 👋
 
-**Frontend Developer** | React.js · Next.js · TypeScript | UI/UX        
+**Frontend Developer** | React.js · Next.js · TypeScript | UI/UX            
 Blending tech + art into creative, user-friendly, accessible, and performant web experiences.  
 
 ### ✨ Featured Projects
-🪐 [**Palaxy**](https://palaxy.app) – Next.js + TypeScript app powered by Framer Motion (animation framework) — a cosmic personality exploration in the browser.  
-🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun) – Next.js app using ElevenLabs (text-to-speech) API — play detective in this quirky mystery game.  
-🥠 [**Techie Cookie**](https://mytechiecookie.com) – Next.js + TypeScript app powered by Hugging Face (AI model) API — generates playful developer “fortunes.”  
-🇺🇸 [**GeoVibe**](https://geovibe.vercel.app) – React.js app that visualizes U.S. Census data with interactive state insights.  
-🐣 [**Easter Eggs Festival**](https://easter-eggs-festival.vercel.app) – React + TypeScript game featuring audio cues and score tracking.  
-🦉 [**Clicky Owls**](https://clicky-owls.vercel.app) – React.js memory game built with accessibility focus. 
+🤖 [**HyBridger**](https://hybridger.vercel.app) — **Next.js + TypeScript + Contentful**    
+Landing page powered by a headless CMS, featuring a scripted conversational chatbot demo.
+
+🪐 [**Palaxy**](https://palaxy.app) — **Next.js + TypeScript + Framer Motion**  
+A cosmic, browser-based personality explorer with fluid motion design.
+
+🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun) — **Next.js + ElevenLabs API**      
+A quirky detective mini-game using text-to-speech for interactive storytelling.
+
+🥠 [**Techie Cookie**](https://mytechiecookie.com) — **Next.js + TypeScript + Hugging Face API**    
+Generates playful developer “fortunes” using a lightweight AI model.
+
+🇺🇸 [**GeoVibe**](https://geovibe.vercel.app) — **React.js**     
+Interactive visualization of U.S. Census data with dynamic state-level insights.
+
+🐣 [**Easter Eggs Festival**](https://easter-eggs-festival.vercel.app) — **React.js + TypeScript**     
+Casual mini-game with audio cues, score tracking, and delightful UI feedback.
+
+🦉 [**Clicky Owls**](https://clicky-owls.vercel.app) — **React.js**      
+Accessibility-focused memory game designed for quick, engaging play.
 
 See more details about each project on my portfolio → [**zoechang.dev**](https://zoechang.dev)
 
