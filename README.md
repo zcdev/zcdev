@@ -1,7 +1,7 @@
 # Hi, I’m Zoe 👋
 
-**Frontend Developer** | React.js · Next.js · TypeScript | UI/UX            
-Blending tech + art into creative, user-friendly, accessible, and performant web experiences.  
+**Design Engineer** | Product Experience | React.js · Next.js · TypeScript            
+Building thoughtful, user-friendly interfaces at the intersection of art and technology.
 
 ### ✨ Featured Projects
 🤖 [**HyBridger**](https://hybridger.vercel.app) — **Next.js + TypeScript + Contentful**    
