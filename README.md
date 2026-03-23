@@ -4,26 +4,24 @@
 Building thoughtful, user-friendly interfaces at the intersection of art and technology.
 
 ### ✨ Featured Projects
-🤖 [**HyBridger**](https://hybridger.vercel.app) — **Next.js + TypeScript + Contentful**    
-Landing page powered by a headless CMS, featuring a scripted conversational chatbot demo.
 
-🪐 [**Palaxy**](https://palaxy.app) — **Next.js + TypeScript + Framer Motion**  
-A cosmic, browser-based personality explorer with fluid motion design.
+🎙️ **Voez** —  TBD
 
-🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun) — **Next.js + ElevenLabs API**      
-A quirky detective mini-game using text-to-speech for interactive storytelling.
+🤖 [**HyBridger**](https://hybridger.vercel.app): **Next.js + TypeScript + Contentful** (Lighthouse 100) — A demo marketing landing page powered by headless CMS with a scripted conversational chatbot.
 
-🥠 [**Techie Cookie**](https://mytechiecookie.com) — **Next.js + TypeScript + Hugging Face API**    
-Generates playful developer “fortunes” using a lightweight AI model.
+🚚 [**Food Truck Tracker**](food-truck-tracker-app.vercel.app): **Next.js + TypeScript** (Lighthouse 100) — A demo web app simulating real-time food truck tracking, discovering, and exploring.
 
-🇺🇸 [**GeoVibe**](https://geovibe.vercel.app) — **React.js**     
-Interactive visualization of U.S. Census data with dynamic state-level insights.
+🪐 [**Palaxy**](https://palaxy.app): **Next.js + TypeScript + Framer Motion** (Lighthouse 100) — A personality exploratory web app to find your cosmic pals.
 
-🐣 [**Easter Eggs Festival**](https://easter-eggs-festival.vercel.app) — **React.js + TypeScript**     
-Casual mini-game with audio cues, score tracking, and delightful UI feedback.
+🍪 [**Who Ate the Cookie**](https://whoatethecookie.fun): **Next.js + ElevenLabs API** (Lighthouse 100) — A text-to-speech quirky detective mini-game via interactive storytelling.
 
-🦉 [**Clicky Owls**](https://clicky-owls.vercel.app) — **React.js**      
-Accessibility-focused memory game designed for quick, engaging play.
+🇺🇸 [**GeoVibe**](https://geovibe.vercel.app): **React.js** (Lighthouse 100) — An accessible web app presenting visualized state-by-state geodemographic stats.
+
+🐣 [**Easter Eggs Festival**](https://easter-eggs-festival.vercel.app): **React.js + TypeScript** — A strategic number-memory game built with custom sound design that is both accessible and user-friendly.
+
+🦉 [**Clicky Owls**](https://clicky-owls.vercel.app): **React.js** — A lighthearted game encourages sharpening focus and strategic memory recall.
+
+🥠 [**Techie Cookie**](https://mytechiecookie.com): **Next.js + TypeScript + Hugging Face API** (Lighthouse 100) — A web app offering custom and AI-generated inspirational fortune cookie messages for devs.
 
 See more details about each project on my portfolio → [**zoechang.dev**](https://zoechang.dev)
 
