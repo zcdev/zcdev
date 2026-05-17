@@ -5,7 +5,9 @@ Building thoughtful, user-friendly interfaces at the intersection of design and 
 
 ### ✨ Featured Projects
 
-🎙️ **Voez** —  TBD
+🎙️ **Voez** — TBD
+
+✉️ [**MailComposer**](https://mailcomposer.vercel.app) — **Next.js + TypeScript + MJML** (Lighthouse 100) — AI-powered email template generator ready for ESP upload.
 
 🤖 [**HyBridger**](https://hybridger.vercel.app): **Next.js + TypeScript + Contentful** (Lighthouse 100) — A demo marketing landing page powered by headless CMS with a scripted conversational chatbot.
 
