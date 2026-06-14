@@ -28,13 +28,13 @@ Building thoughtful, user-friendly interfaces at the intersection of design and 
 See more details about each project on my portfolio → [**zoechang.dev**](https://zoechang.dev)
 
 ### 🛠 Toolbox
-![React.js](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css\&logoColor=white)
-![Contentful CMS](https://img.shields.io/badge/Contentful%20CMS-0055FF?logo=contentful\&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-000000?logo=accessibility&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance-7E3FF2?logo=googlechrome&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css\&logoColor=white)
+![Contentful CMS](https://img.shields.io/badge/Contentful%20CMS-0055FF?style=for-the-badge&logo=contentful\&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logo=accessibility&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-7E3FF2?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 My Top Languages
