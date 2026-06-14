@@ -5,9 +5,9 @@ Building thoughtful, user-friendly interfaces at the intersection of design and 
 
 ### ✨ Featured Projects
 
-🎙️ **Voez** — TBD
+🎙️[**Voez AI**](https://voez.ai): **Next.js + Web Speech API + OpenAI API + ElevenLabs API** — Conversational AI-powered voice-driven interactive music listening experience.
 
-✉️ [**MailComposer**](https://mailcomposer.vercel.app) — **Next.js + TypeScript + MJML** (Lighthouse 100) — AI-powered email template generator ready for ESP upload.
+✉️ [**MailComposer**](https://mailcomposer.vercel.app): **Next.js + TypeScript + MJML** (Lighthouse 100) — AI-powered email template generator ready for ESP upload.
 
 🤖 [**HyBridger**](https://hybridger.vercel.app): **Next.js + TypeScript + Contentful** (Lighthouse 100) — A demo marketing landing page powered by headless CMS with a scripted conversational chatbot.
 
@@ -35,6 +35,7 @@ See more details about each project on my portfolio → [**zoechang.dev**](https
 ![Contentful CMS](https://img.shields.io/badge/Contentful%20CMS-0055FF?logo=contentful\&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/Accessibility-000000?logo=accessibility&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance-7E3FF2?logo=googlechrome&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 My Top Languages
 
