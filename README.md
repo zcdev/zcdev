@@ -1,7 +1,7 @@
 # Hi, I’m Zoe 👋
 
 **Frontend Developer** | React.js · Next.js · TypeScript            
-Building thoughtful, user-friendly interfaces at the intersection of design and engineering.
+Building thoughtful, user-friendly interfaces that are human-first.
 
 ### ✨ Featured Projects
 
